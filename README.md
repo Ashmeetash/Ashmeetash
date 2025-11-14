@@ -28,7 +28,6 @@ Data & ML Libraries
 
 	•	NumPy, Pandas
 	•	Matplotlib, Seaborn
-	•	Scikit-Learn
 
 Tools / Platforms
 
