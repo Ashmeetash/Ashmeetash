@@ -69,13 +69,11 @@ I am currently focusing on:
 	•	Deployment basics (Flask/FastAPI)
 	•	Open Source
 	
-
 ⸻
 
 📫 Connect With Me
-
-	•	💼 LinkedIn: www.linkedin.com/in/ashmeet-ash-a80497386
-	•	📧 Email: ashmeetmeet5365@gmail.com
+	•	💼 LinkedIn: [Ashmeet Ash](https://www.linkedin.com/in/ashmeet-ash-a80497386)
+	•	📧 Email: ashmeetmeet5365@gmail.com￼
 
 ⸻
 
